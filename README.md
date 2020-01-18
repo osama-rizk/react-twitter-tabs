@@ -2,7 +2,7 @@
 
 A cross-platform Tab View component for ReactJs
 
-[![npm version](https://img.shields.io/badge/npm-v1.0.1-blue)](https://www.npmjs.com/package/react-twitter-tabs)
+[![npm version](https://img.shields.io/badge/Version-v1.0.2-blue)](https://www.npmjs.com/package/react-twitter-tabs)
 
 # Features
 
