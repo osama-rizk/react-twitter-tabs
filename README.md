@@ -51,6 +51,8 @@ npm install react-twitter-tabs --save
 
 # Props
 
+2-Tabs
+
 | Prop name            | Description                                 | isRequired | type   |
 | -------------------- | ------------------------------------------- | ---------- | ------ |
 | activeColor          | The Colour of Active indicator              | No         | String |

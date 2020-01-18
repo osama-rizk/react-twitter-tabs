@@ -15,9 +15,9 @@
   ],
   "author": "Osama Rezk",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/Osama-Rezk/react-twitter-tabs/issues"
   },
-  "homepage": "",
+  "homepage": "https://github.com/Osama-Rezk/react-twitter-tabs#readme",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.7.7",
