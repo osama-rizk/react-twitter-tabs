@@ -10,8 +10,12 @@
   },
   "keywords": [
     "react",
+    "react-component",
     "Tabs",
-    "Twitter"
+    "Twitter",
+    "Tab",
+    "react-tabs",
+    "Responsive"
   ],
   "author": "Osama Rezk",
   "bugs": {
