@@ -16,9 +16,9 @@ A cross-platform Tab View component for ReactJs
 
 # Live Demo
 
-Try The Component
+Try The Component with codesandbox
 
-https://codesandbox.io/s/zen-dawn-34lc3
+[Lets go ](https://codesandbox.io/s/zen-dawn-34lc3)
 
 # Installation
 
