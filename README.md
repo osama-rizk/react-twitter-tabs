@@ -14,7 +14,7 @@ A cross-platform Tab View component for ReactJs
 
 ![Alt Text](https://s5.gifyu.com/images/react-twitter-tabs3.gif)
 
-# Live Demo
+# [Live Demo](https://codesandbox.io/s/zen-dawn-34lc3)
 
 [Lets Try The Component with codesandbox ](https://codesandbox.io/s/zen-dawn-34lc3)
 
